@@ -1,0 +1,1 @@
+# return-early-pattern-for-functions.js
